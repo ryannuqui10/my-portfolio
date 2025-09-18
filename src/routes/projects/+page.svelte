@@ -1,3 +1,6 @@
+<svelte:head>
+	<title>Ryan's Projects</title>
+</svelte:head>
 <nav>
     <a href="../"> Home Page </a>
     <a class="current" href="/projects"> My Projects </a>

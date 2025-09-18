@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Contact Ryan!</title>
+</svelte:head>
+
 <nav>
     <a href="../"> Home Page </a>
     <a href="../projects"> My Projects </a>
