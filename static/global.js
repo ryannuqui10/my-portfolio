@@ -23,9 +23,9 @@ let nav = document.createElement("nav");
 document.body.prepend(nav);
 
 for (let p of pages) {
-	const ARE_WE_HOME = document.documentElement.classList.contains("home");
+	// const ARE_WE_HOME = document.documentElement.classList.contains("home");
 	let url = p.url
-	url = !ARE_WE_HOME && !url.startsWith("http") ? "../" + url : url;
+	// url = !ARE_WE_HOME && !url.startsWith("http") ? "../" + url : url;
 	let title = p.title 
 
 	let a = document.createElement("a");
