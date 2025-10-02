@@ -1,12 +1,6 @@
 <svelte:head>
 	<title>Ryan's Projects</title>
 </svelte:head>
-<nav>
-    <a href="../"> Home Page </a>
-    <a class="current" href="/projects"> My Projects </a>
-    <a href="../contact"> Contact Me </a>
-    <a href="https://github.com/ryannuqui10" target="_blank"> My Github Profile </a>
-</nav>
 <h1>Projects</h1>
 <div class="projects">
     <article>
